@@ -1,7 +1,5 @@
 package ch12.ex4;
 
-import ch12.ex3.FruitBox;
-
 import java.util.Comparator;
 
 class Fruit {
