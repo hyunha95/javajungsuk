@@ -13,3 +13,7 @@ B
 ch15/FileCopy.java,a\c\ac56710f03f3eefd2a930e9e99c297523126b789
 U
 %ch15/ex1/BufferedOutputStreamEx1.java,0\5\052833694281c899b6e7782bf3b59cc3530f5548
+K
+ch15/ex1/FileReaderEx1.java,b\7\b70084fcb44b33dcbdc7e16a72ca088f8fc458ca
+O
+ch15/ex1/BufferedReaderEx1.java,8\8\88be36d59c1b7e4e042a711c27e8127212ed6aec
