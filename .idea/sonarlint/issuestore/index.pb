@@ -17,3 +17,13 @@ K
 ch15/ex1/FileReaderEx1.java,b\7\b70084fcb44b33dcbdc7e16a72ca088f8fc458ca
 O
 ch15/ex1/BufferedReaderEx1.java,8\8\88be36d59c1b7e4e042a711c27e8127212ed6aec
+Q
+!ch15/ex1/InputStreamReaderEx.java,5\8\58f70ab9a492fc4cdce41295cc4a272679ae73f0
+E
+ch15/ex1/FileEx1.java,5\1\51c78f4af004666f176e2012b1187171c28aa78e
+E
+ch15/ex2/FileEx2.java,1\8\1889573744ffcaa647f1b2826b76295bf0ce1d56
+B
+ch15/UserInfo.java,c\1\c1f57d1f887424132bc0e3bc5f105f93e62f2911
+C
+ch15/SerialEx1.java,c\f\cf7ab438c8c32997191427d092846a49ff93366d
