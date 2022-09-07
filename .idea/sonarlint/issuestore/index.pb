@@ -25,5 +25,3 @@ E
 ch15/ex2/FileEx2.java,1\8\1889573744ffcaa647f1b2826b76295bf0ce1d56
 B
 ch15/UserInfo.java,c\1\c1f57d1f887424132bc0e3bc5f105f93e62f2911
-C
-ch15/SerialEx1.java,c\f\cf7ab438c8c32997191427d092846a49ff93366d
