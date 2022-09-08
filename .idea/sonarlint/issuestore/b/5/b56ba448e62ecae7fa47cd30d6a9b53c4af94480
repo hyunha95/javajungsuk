@@ -1,0 +1,16 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ó°ˆ¥
+0
+java:S1220""Move this file to a named package.
+c
+java:S2095
+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üÕÍ‡
+j
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÌÑ‚Úúÿÿÿÿ
+g
+java:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(€š†Á
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿı¡û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µÃì…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
