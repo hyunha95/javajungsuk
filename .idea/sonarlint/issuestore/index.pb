@@ -31,3 +31,6 @@ C
 ch15/SerialEx2.java,b\5\b56ba448e62ecae7fa47cd30d6a9b53c4af94480
 C
 ch15/UserInfo2.java,7\a\7a80f7fddb27e7609999f45203f72e985fdd045e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

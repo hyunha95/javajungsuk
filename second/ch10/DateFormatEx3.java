@@ -12,7 +12,7 @@ public class DateFormatEx3 {
 		try {
 			Date d = df.parse("2015년 11월 23일");
 			System.out.println(df2.format(d));
-		} catch (Exception e) {
+		} catch(Exception e) {
 
 		}
 	}
