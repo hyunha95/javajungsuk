@@ -1,0 +1,17 @@
+
+2
+java:S1643"Use a StringBuilder instead.(ûºÆÔ
+7
+java:S1643"Use a StringBuilder instead.(öÏìÀúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ‰ßÕøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ¾Â¸
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ˆïï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Žù©þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹åæ¥ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.( ‰ßÕøÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(œ¾Â¸
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Õ¥ª‘
+>	java:S108/")Either remove or fill this block of code.(´ú§â
