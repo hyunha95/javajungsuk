@@ -36,3 +36,7 @@ C
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 D
 ch16/NetworkEx1.java,e\1\e1a714865736c4e4acea3fb73e00c8d37dec6d7a
+D
+ch16/NetworkEx2.java,0\1\0129fe248cdb71e8387bbacc076890d0ecc2e5b4
+D
+ch16/NetworkEx3.java,3\c\3c7d1e87678bc994da58e085b800d4a1ae67233b
