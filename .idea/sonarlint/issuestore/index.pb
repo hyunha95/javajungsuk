@@ -40,3 +40,5 @@ D
 ch16/NetworkEx2.java,0\1\0129fe248cdb71e8387bbacc076890d0ecc2e5b4
 D
 ch16/NetworkEx3.java,3\c\3c7d1e87678bc994da58e085b800d4a1ae67233b
+D
+ch16/NetworkEx4.java,9\e\9ee72180a98e0612a6c3e93030d5bbf2a468f68c
