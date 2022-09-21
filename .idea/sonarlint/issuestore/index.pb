@@ -42,3 +42,9 @@ D
 ch16/NetworkEx3.java,3\c\3c7d1e87678bc994da58e085b800d4a1ae67233b
 D
 ch16/NetworkEx4.java,9\e\9ee72180a98e0612a6c3e93030d5bbf2a468f68c
+E
+ch16/TcpIpServer.java,d\6\d6d87c022cd2a018463a8e11707d0ef60160e979
+N
+second/ch10/DateFormatEx1.java,8\1\8169cd1cd767e5388a039eb95c17a34ea7b808fe
+N
+second/ch10/DateFormatEx2.java,7\a\7a4b65a1686937645d9d9b7a4f4d5194dc32dca9

@@ -1,0 +1,28 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "result".(ŒÑ™˜
+R
+java:S1854
+"7Remove this useless assignment to local variable "now".(ÃÅøûÿÿÿÿ
+W
+java:S1659"ADeclare "sdf2" and all following declarations on a separate line.(Ö£’î
+W
+java:S1659"ADeclare "sdf6" and all following declarations on a separate line.(ƒ™€œ
+C
+java:S1481
+"(Remove this unused "now" local variable.(ÃÅøûÿÿÿÿ
+?
+java:S1481")Remove this unused "sdf3" local variable.(Ö£’î
+?
+java:S1481")Remove this unused "sdf4" local variable.(Ö£’î
+?
+java:S1481")Remove this unused "sdf5" local variable.(ƒ™€œ
+?
+java:S1481")Remove this unused "sdf6" local variable.(ƒ™€œ
+?
+java:S1481")Remove this unused "sdf7" local variable.(ƒ™€œ
+?
+java:S1481")Remove this unused "sdf8" local variable.(ƒ™€œ
+?
+java:S1481")Remove this unused "sdf9" local variable.(ƒ™€œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
