@@ -48,3 +48,5 @@ N
 second/ch10/DateFormatEx1.java,8\1\8169cd1cd767e5388a039eb95c17a34ea7b808fe
 N
 second/ch10/DateFormatEx2.java,7\a\7a4b65a1686937645d9d9b7a4f4d5194dc32dca9
+N
+second/ch10/DateFormatEx3.java,4\5\45aaa94099c81490dca9ca3bdc5d4dc0376f1827
