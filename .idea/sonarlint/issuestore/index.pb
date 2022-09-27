@@ -50,3 +50,13 @@ N
 second/ch10/DateFormatEx2.java,7\a\7a4b65a1686937645d9d9b7a4f4d5194dc32dca9
 N
 second/ch10/DateFormatEx3.java,4\5\45aaa94099c81490dca9ca3bdc5d4dc0376f1827
+N
+second/ch10/DateFormatEx4.java,9\1\91226eecf016544a0c387c006a56194e60addff1
+G
+second/ch14/Ex14_0.java,e\2\e2f4d3423033b8284b77fc4f515403634b8791fe
+K
+second/ch10/NewTimeEx1.java,9\9\9980c0a441a3411615527580b9627f2b1ff6a973
+M
+second/ch11/ArrayListEx1.java,3\a\3ab7f808c7e9a453f020879901c998b30a9946d3
+M
+second/ch11/ArrayListEx2.java,8\e\8e2848e4465552fee7844fff55d14e43785569b4
