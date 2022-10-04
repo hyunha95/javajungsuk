@@ -1,0 +1,33 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(„÷ÆÈûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(„÷ÆÈûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(§åÖú
+E
+java:S3740"/Provide the parametrized type for this generic.(§åÖú
+k
+java:S1104"PMake back a static final constant or non-public and provide accessors if needed.(„÷ÆÈûÿÿÿÿ
+i
+java:S1104"SMake forward a static final constant or non-public and provide accessors if needed.(§åÖú
+E
+java:S1444"*Make this "public static back" field final(„÷ÆÈûÿÿÿÿ
+C
+java:S1444"-Make this "public static forward" field final(§åÖú
+8
+java:S2386"Make this member "protected".(„÷ÆÈûÿÿÿÿ
+3
+java:S2386"Make this member "protected".(§åÖú
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„÷ÆÈûÿÿÿÿ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(§åÖú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äòüñûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äòüñûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÄµÓ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èãáø
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(´øÅ¦8‹ˆÈµ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ì®¾Ö8›Ş’Èµ0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÓÏºïøÿÿÿÿ8­“Èµ0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8šƒ›Èµ0

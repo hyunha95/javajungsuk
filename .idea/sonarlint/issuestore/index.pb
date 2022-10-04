@@ -60,3 +60,9 @@ M
 second/ch11/ArrayListEx1.java,3\a\3ab7f808c7e9a453f020879901c998b30a9946d3
 M
 second/ch11/ArrayListEx2.java,8\e\8e2848e4465552fee7844fff55d14e43785569b4
+X
+(second/ch11/ArrayListLinkedListTest.java,3\4\340952ed93635110462ef57ff49e14789a864336
+M
+second/ch11/StackQueueEx.java,f\b\fb1afcf8245b27cce24f9c9457922bb306fcb4bf
+I
+second/ch11/StackEx1.java,5\d\5d0d1f261309e03334761fdb716f6a48bbc0fc64
