@@ -66,3 +66,7 @@ M
 second/ch11/StackQueueEx.java,f\b\fb1afcf8245b27cce24f9c9457922bb306fcb4bf
 I
 second/ch11/StackEx1.java,5\d\5d0d1f261309e03334761fdb716f6a48bbc0fc64
+N
+second/ch11/ExpValidCheck.java,8\a\8af1868ce531de432456580104e4ee5b987c65e8
+I
+second/ch11/QueueEx1.java,2\8\2812827534dedd314daeba956dae9472e02e8805
