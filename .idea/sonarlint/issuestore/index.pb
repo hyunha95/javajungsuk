@@ -68,3 +68,11 @@ N
 second/ch11/ExpValidCheck.java,8\a\8af1868ce531de432456580104e4ee5b987c65e8
 I
 second/ch11/QueueEx1.java,2\8\2812827534dedd314daeba956dae9472e02e8805
+L
+second/ch11/IteratorEx1.java,9\b\9bb72f6849f7cc32f3a0d24f61e7fcafca242848
+P
+ second/ch11/ListIteratorEx1.java,6\4\64ddf1d0532200efece86a679d3a5dbefa6a6d5f
+L
+second/ch11/IteratorEx2.java,5\1\510c336652094c09ff0b44fa9a58c47f4e2132ca
+M
+second/ch11/ArrayListEx2.java,8\e\8e2848e4465552fee7844fff55d14e43785569b4
