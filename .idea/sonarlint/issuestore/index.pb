@@ -76,3 +76,13 @@ L
 second/ch11/IteratorEx2.java,5\1\510c336652094c09ff0b44fa9a58c47f4e2132ca
 M
 second/ch11/ArrayListEx2.java,8\e\8e2848e4465552fee7844fff55d14e43785569b4
+M
+second/ch11/ComparatorEx.java,0\7\07e0b86493c7f6ae9d0e592efdfcf2b4a7af2539
+K
+second/ch11/HashSetEx1.java,7\7\7781c2c8a027789df31f4f3d79a87d7b0b76dbae
+M
+second/ch11/HashSetLotto.java,a\c\ac8a5f3b9d66278c5e517635d26859aeda0ad910
+F
+second/ch11/Bingo.java,3\4\34f44de92b1d6c1d65748a8dd4fbed612a06238d
+K
+second/ch11/HashSetEx3.java,b\9\b96766fd0409bedc4c2994ecc49610f506e90ef7
