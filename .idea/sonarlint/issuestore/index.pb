@@ -86,3 +86,5 @@ F
 second/ch11/Bingo.java,3\4\34f44de92b1d6c1d65748a8dd4fbed612a06238d
 K
 second/ch11/HashSetEx3.java,b\9\b96766fd0409bedc4c2994ecc49610f506e90ef7
+L
+third/ch11/ArrayListEx1.java,d\2\d2f30aa14abc2beae9989791f99552bab7210aaa
